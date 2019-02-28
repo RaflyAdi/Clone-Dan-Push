@@ -1,0 +1,34 @@
+cara clone dan push projek
+clone :
+	1. Buka File Manajer
+	2. Buat folder baru
+	3. Klik kanan pada folder tersebut dan klik git bash here
+		1. Buka Browser
+		2. Cari github.com/username
+			contoh : github.com/RaflyAdi
+		3. Klik project yang akan diclone
+		4. Klik Clone Or Download
+		5. Copykan alamat gitnya
+	4. lalu ketik git clone pastekan alamat gitnya
+	5. Tunggu sampai proses clone selesai
+
+
+
+
+
+
+
+push :
+	1.  Login Github terlebih dahulu
+	2.  Pilih Repositories
+	3.  Pilih New
+	4.  Nama Harus sama dengan project yang akan dipush
+	5.  klik kanan pada projek yg akan dipush
+	6.  pilih Git Bash Here
+	7.  Ketik "git init"
+	8.  Lalu Ketik "git add *"
+	9.  Ketik "git commit -m "Isinya terserah" "
+	10. ketik " git remote add origin alamat git "
+	11. Ketik "git push -u origin master"
+		Keterangan : 
+			- No 8 - 11 diisi tanpa tanda kutip
